@@ -1,1 +1,5 @@
-ECHO is on.
+h1{
+    color: rgb(71, 71, 171);
+    font-family: system-ui, sans-serif;
+    text-align: center;
+}
